@@ -301,6 +301,7 @@ body{
 }
 #web{
   font-family: arial;
+  display: flex;
 }
 #hrtry2::after{
     content:"❀ ❀ ❀";
