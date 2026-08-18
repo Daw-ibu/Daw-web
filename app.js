@@ -1,15 +1,4 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-app.js";
-import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-analytics.js";
-  const firebaseConfig = {
-    apiKey: "AIzaSyCsLFZCN6MwPiUd6TU6VhvSSPSLh4zzWPg",
-    authDomain: "skydaw-8318d.firebaseapp.com",
-    databaseURL: "https://skydaw-8318d-default-rtdb.firebaseio.com",
-    projectId: "skydaw-8318d",
-    storageBucket: "skydaw-8318d.firebasestorage.app",
-    messagingSenderId: "396373384516",
-    appId: "1:396373384516:web:cef5b2254043b12fad0b11",
-    measurementId: "G-7B5CEZBHTN"
-  };
+
 
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
